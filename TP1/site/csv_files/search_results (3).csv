@@ -1,0 +1,13 @@
+id;Matricule;Nom;Prenom;Sexe;date_inscription;heure;img;
+1;etu1;kone;abdoul;M;12/03/2021;15:20:30;base_h;
+2;etu2;soro;marc;M;15/03/2021;17:20:53;base_h;
+3;etu3;bessan;konan;M;14/03/2021;13:15:21;base_h;
+4;etu4;bella;Bintou;F;16/02/2021;13:15:21;base_f;
+5;e5;nestor;kone;M;15/03/2021;17:51:23;base_h;
+6;e6;doris;affoue;F;17/03/2021;18:52:35;base_f;
+7;e7;Pondo;kouakou;M;18/03/2021;15:15:02;base_h;
+8;etu8;Kouadio;Jeans;M;18/03/2021;12:12:15;base_h;
+9;etu9;Koen ;Zack;M;18/03/2021;12:12:15;base_h;
+10;etud10;lodo;viviane;F;19/03/2021;15:12:30;base_f;
+11;e10;djebi;mouenti;M;26/03/2021;12:04:24;e10;
+12;e11;hien;sasan;M;30/03/2021;18:26:53;e11;

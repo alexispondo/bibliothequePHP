@@ -1,0 +1,22 @@
+body{
+	
+}
+
+.label_info{
+	font-size: 0.7cm;
+	display: inline-block;
+	width: 6cm;
+}
+
+
+.input_info{
+	font-size: 0.7cm; 
+	display: inline-block;
+	width: 10cm;
+}
+
+.livre_image{
+	display: inline-block;
+	width: 2cm;
+	height: 3cm;
+}

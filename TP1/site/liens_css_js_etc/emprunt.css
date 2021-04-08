@@ -1,0 +1,28 @@
+.div_img{
+	text-align: center;
+}
+.div_info{
+	padding-left: 1cm;
+	font-size: 0.8cm;
+}
+.label_info{
+	display: inline-block;
+	width: 4cm;
+}
+.b_info{
+	display: inline-block;
+	text-align: center;
+	min-width: 5cm;
+	border-right: 1px solid black;
+	border-bottom: 1px solid black;
+	box-shadow: 5px 5px 5px 5px #0005;
+}
+.profile{
+	padding-top: 0.5cm;
+	background-color: #5552;
+	color: black;
+	min-height: 18cm;
+}
+.img_etud{
+	border-radius: 10cm;
+}

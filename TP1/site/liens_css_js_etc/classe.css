@@ -1,0 +1,27 @@
+body{
+	
+}
+
+.label_info{
+	font-size: 0.7cm;
+	display: inline-block;
+	width: 6cm;
+}
+
+
+.input_info{
+	font-size: 0.7cm; 
+	display: inline-block;
+	width: 10cm;
+}
+
+.click_classe{
+	color: blue;
+}
+
+.img{
+	display: inline-block;
+	width: 2cm;
+	height: 2cm;
+	border-radius: 1cm;
+}

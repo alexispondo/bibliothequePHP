@@ -1,0 +1,22 @@
+.img_etud{
+	border-radius: 10cm;
+	width: 4cm;
+	height: 4cm;
+}
+.titre_profile{
+	font-size: 1cm;
+}
+.label_info{
+	font-size: 0.8cm;
+	display: inline-block;
+	width: 6cm;
+}
+.span_info{
+	font-size: 0.8cm; 
+	display: inline-block;
+	border-bottom: 1px solid black;
+	border-left: 1px solid black;
+	box-shadow: 5px 5px 5px 5px #0005;
+	width: 8cm;
+	text-align: center;
+}
